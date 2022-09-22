@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
 	<ConfigVersions>
 		<Metadata name="Configuration.Конфигурация" id="7845cb8e-13ba-4827-9d4f-76ecad127b95" configVersion="8424e49404d92048ba9b71e2ced17a5700000000"/>
-		<Metadata name="Document.ДокументGIT" id="9c0847f3-e383-45ee-bbab-1de1194c7944" configVersion="fc474ea29de68448b3f2ea649f76196200000000">
+		<Metadata name="Document.ДокументGIT" id="9c0847f3-e383-45ee-bbab-1de1194c7944" configVersion="a9980a62b655dc41a23065be0827cb9a00000000">
 			<Metadata name="Document.ДокументGIT.Attribute.Репозиторий" id="5af8ab81-c661-46e3-a091-4d5d420724c6"/>
 			<Metadata name="Document.ДокументGIT.Attribute.Пользователь" id="f4b870b0-f492-411d-a1fa-60d16776f7e6"/>
 		</Metadata>
 		<Metadata name="Document.ДокументGIT.Form.ФормаДокумента" id="6d72ebac-7ae3-4186-9022-5b0bb77d5840" configVersion="241abb48abdd06448e2cdee68b21624400000000"/>
 		<Metadata name="Document.ДокументGIT.Form.ФормаДокумента.Form" id="6d72ebac-7ae3-4186-9022-5b0bb77d5840.0" configVersion="1f22501b97207f4980ed8a64a1815e5c00000000"/>
-		<Metadata name="Document.ДокументGIT.ObjectModule" id="9c0847f3-e383-45ee-bbab-1de1194c7944.0" configVersion="7593ac381389a84080085d581b808eea00000000"/>
+		<Metadata name="Document.ДокументGIT.ObjectModule" id="9c0847f3-e383-45ee-bbab-1de1194c7944.0" configVersion="cf0a99fa3fa4ec43b04298f308d9516600000000"/>
 		<Metadata name="Language.Русский" id="d1d74471-f80e-4a5f-94d0-d6dd4c21d102" configVersion="c253bbea2edf35459b49d9bac22d015f00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
